@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._23520231_Lab01_Bai02" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style><!--        android:theme="@style/Theme._23520231_Lab01_Bai02"-->
+
+
+    <style name="Theme._23520231_Lab01_Bai02" parent="Base.Theme._23520231_Lab01_Bai02" />
+</resources>
