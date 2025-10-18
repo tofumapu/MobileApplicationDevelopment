@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgDish"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvDishName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7F000000"
+        android:textColor="@android:color/white"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:scrollHorizontally="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        app:layout_constraintBottom_toBottomOf="@id/imgDish"/>
+
+    <ImageView
+        android:id="@+id/imgStar"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="5dp"
+        android:visibility="gone"
+        app:srcCompat="@drawable/star"
+        app:layout_constraintEnd_toEndOf="@id/imgDish"
+        app:layout_constraintBottom_toBottomOf="@id/imgDish"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

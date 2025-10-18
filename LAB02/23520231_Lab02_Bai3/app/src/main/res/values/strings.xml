@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">23520231_Lab02_Bai3</string>
+    <string name="quanlynhanvien">Quản lý nhân viên</string>
+    <string name="MaNV">Mã NV:</string>
+    <string name="NhapMaNV">Nhập mã NV của bạn\n</string>
+    <string name="TenNV">Tên NV:</string>
+    <string name="NhapTenNV">Nhập tên NV của bạn\n</string>
+    <string name="LoaiNV">Loại NV:</string>
+    <string name="NVFullTime">Chính thức</string>
+    <string name="ThoiVu">Thời vụ</string>
+    <string name="input">Nhập NV</string>
+</resources>
