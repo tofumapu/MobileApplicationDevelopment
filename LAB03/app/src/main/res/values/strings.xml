@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">23520231_Lab03</string>
+    <string name="title">Student Management</string>
+    <string name="ID">ID:\n</string>
+    <string name="Name">Name:</string>
+    <string name="Class">Class:</string>
+    <string name="AddStudent">ADD STUDENT\n</string>
+    <string name="Modify">Modify</string>
+</resources>
