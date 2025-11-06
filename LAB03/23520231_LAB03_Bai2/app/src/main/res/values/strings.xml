@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">23520231_Lab03_Bai2</string>
+    <string name="title">Contact Management</string>
+    <string name="ID">ID:</string>
+    <string name="Name">Name:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="AddContact">ADD CONTACT</string>
+</resources>
