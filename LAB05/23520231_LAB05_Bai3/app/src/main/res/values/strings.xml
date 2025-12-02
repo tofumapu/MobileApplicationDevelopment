@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">23520231_LAB05_Bai3</string>
+    <string name="these_people_want_to_know_if_u_are_ok">These people want to know if you\’re ok</string>
+    <string name="i_am_safe_and_well">I AM SAFE AND WELL</string>
+    <string name="mayday">MAYDAY! MAYDAY! MAYDAY!</string>
+    <string name="auto_response">Auto Response</string>
+    <string name="i_am_safe_and_well_worry_not">I am fine and safe. Worry not!</string>
+    <string name="tell_my_mother_i_love_her">Tell my mother I love her</string>
+</resources>
